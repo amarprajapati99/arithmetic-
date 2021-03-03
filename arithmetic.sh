@@ -10,4 +10,5 @@ cal=$(( a+b*c ))
 echo $cal
 compute=$(( a*b+c ))
 echo $compute
-
+compute1=$(( c + a / b ))
+echo $compute
