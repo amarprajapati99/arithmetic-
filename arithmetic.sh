@@ -8,4 +8,6 @@ read c
 echo "$a $b $c "
 cal=$(( a+b*c ))
 echo $cal
+compute=$(( a*b+c ))
+echo $compute
 
