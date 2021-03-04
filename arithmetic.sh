@@ -12,3 +12,5 @@ compute=$(( a*b+c ))
 echo $compute
 compute1=$(( c + a / b ))
 echo $compute
+res=$(( a + b % c ))
+echo $res
